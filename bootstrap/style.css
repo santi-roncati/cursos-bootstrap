@@ -4,7 +4,7 @@
 }
  .nav-item:hover a{
     transform: scale(1.1);
-    background: lightblue;
+    background: #9FDDFE ;
 }
 
 .container{
@@ -22,10 +22,10 @@
 
 .btn:hover{
     transform: scale(1.1);
-    background: lightblue;
+    background: #9FDDFE ;
 }
 .mb-2:hover a{
     transform: scale(1.1);
-    background: lightblue;
+    background: #9FDDFE ;
 }
 
