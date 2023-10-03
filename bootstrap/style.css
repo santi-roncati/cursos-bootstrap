@@ -1,0 +1,31 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+ .nav-item:hover a{
+    transform: scale(1.1);
+    background: lightblue;
+}
+
+.container{
+    margin-top: 40px;
+}
+
+.card{
+    box-shadow: 0px 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+.btn{
+    margin-left: 60px;
+    
+}
+
+.btn:hover{
+    transform: scale(1.1);
+    background: lightblue;
+}
+.mb-2:hover a{
+    transform: scale(1.1);
+    background: lightblue;
+}
+
